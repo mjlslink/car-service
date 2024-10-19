@@ -13,6 +13,7 @@ public class CarEntity {
     @Id
     private Integer id;
     private String modelName;
+    private Double modelPrice;
     private String manufacturer;
     private String vin;
 

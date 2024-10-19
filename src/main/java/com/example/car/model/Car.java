@@ -7,6 +7,7 @@ import lombok.Setter;
 public class Car {
 
     private String modelName;
+    private Double modelPrice;
     private String manufacturer;
     private String vin;
 }
