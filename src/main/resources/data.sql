@@ -1,0 +1,10 @@
+insert into cars values (1, 'PASSAT', 'VW', 'GF562323453Z');
+insert into cars values (2, 'RANGER', 'JEEP', 'GF562323453Z');
+insert into cars values (3, 'BUG', 'VW', 'GF562323453Z');
+insert into cars values (4, 'COROLLA', 'TOYOTA', 'GF562323453Z');
+insert into cars values (5, '99', 'SAAB', 'GF562323453Z');
+insert into cars values (6, 'STINGER', 'DATSUN', 'GF562323453Z');
+insert into cars values (7, 'WRANGLER', 'FORD', 'GF562323453Z');
+insert into cars values (8, 'FORRESTER', 'SUBARU', 'GF562323453Z');
+insert into cars values (9, 'SPORSTER', 'HYUNDAI', 'GF562323453Z');
+insert into cars values (10, 'LUXURY', 'LEXUS', 'GF562323453Z');
